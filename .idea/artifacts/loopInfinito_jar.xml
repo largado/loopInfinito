@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="loopInfinito:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/loopInfinito_jar</output-path>
+    <root id="archive" name="loopInfinito.jar">
+      <element id="module-output" name="loopInfinito" />
+    </root>
+  </artifact>
+</component>
